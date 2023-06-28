@@ -7,4 +7,8 @@
   1- <a href="1- Loja Virtual de Informatica">Loja Virtual de Informática</a> -> HTML - Tags Básicas <br>
   2- <a href="2- Receita Bolo de chocolate" >Receita Bolo de chocolate</a> -> CSS Introdução <br>
   3-  <a href="3- Bolo de Milho Fofinho e Cremoso" >Bolo de Milho Fofinho e Cremoso</a> -> CSS Introdução <br>
-</div>div>
+
+  <br><br>
+  Continue acompanhando minha evolução!
+  Deixe suas dicas, melhorias, opniões e incentivos.
+</div>
