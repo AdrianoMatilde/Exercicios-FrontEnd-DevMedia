@@ -1,4 +1,4 @@
-<h2>Exercicio praticado após aula sobre Meta Tags.</h2>
+<h2>Exercicio prático: Documento em HTML Meta Tags.</h2>
 
 <h3>Quando começamos a criar uma página HTML a primeira coisa que fazemos é definir o conteúdo de cabeçalho, como título e meta tags.</h3>
 <div>
