@@ -1,0 +1,31 @@
+h1 {
+    font-size: 22px;
+    font-family: 'Verdana';
+    text-align: center;
+}
+
+h2 {
+    font-size: 18px;
+    font-family: 'Verdana';
+    color: gray;
+}
+
+h3 {
+    font-size: 16px;
+    font-family: 'Verdana';
+    line-height: 20px;
+}
+
+p {
+    font-size: 16px;
+    font-family: 'Verdana';
+    line-height: 20px;
+}
+
+span {
+    font-weight: bold;
+}
+
+a {
+    text-decoration: none;
+}
