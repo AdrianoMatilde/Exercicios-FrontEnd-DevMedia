@@ -14,16 +14,16 @@
     6. font-style<br>
     7. text-align<br>
     8. line-height<br>
-    9. estilo de fonte aplicado a uma div {container};
-    10. color.</p><br>
+    9. estilo de fonte aplicado a uma div {container}<br>
+    10. color.</p>
 </div>
 <h3>Resumindo:</h3>
-    <p>As fontes representam uma parte muito importante nas páginas web, visto que basicamente todos os sites possuem texto em suas páginas. Aprender a usar propriedades para fontes como font-size e font-family é fundamental para o desenvolvedor web deixar os textos com uma aparência mais apresentável.</p>
+    <p>As fontes representam uma parte muito importante nas páginas web, visto que basicamente todos os sites possuem texto em suas páginas.<br>Aprender a usar propriedades para fontes como font-size e font-family é fundamental para o desenvolvedor web deixar os textos com uma aparência mais apresentável.</p>
 <div>
  <h3>Contato</h3>
   Se você tiver alguma dúvida, sugestão ou feedback, fique à vontade para entrar em contato comigo.
   <br>
-  Espero que esta estrutura básica ajude você a criar o seu README. Sinta-se à vontade para personalizá-lo e adicionar informações adicionais que sejam relevantes para os seus exercícios.<br>
+  Espero que esta estrutura básica ajude você a criar o seu README.<br> Sinta-se à vontade para personalizá-lo e adicionar informações adicionais que sejam relevantes para os seus exercícios.<br>
   Continue acompanhando minha evolução!<br>
   Deixe suas dicas, melhorias, opniões e incentivos.<br>
   <a href="mailto:adrianomatilde@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"></a>
