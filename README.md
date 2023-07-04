@@ -13,6 +13,7 @@
   2. <a href="2- Receita Bolo de chocolate" >Receita Bolo de chocolate</a> -> CSS Introdução <br>
   3. <a href="3- Bolo de Milho Fofinho e Cremoso" >Bolo de Milho Fofinho e Cremoso</a> -> CSS Introdução <br>
   4. <a href="4- Lista de alunos-Meta Tags" >Lista de alunos</a> -> HTML - Meta Tags <br> 
+  5. <a href="5- Artigo O Impacto da Tecnologia na Sociedade Contemporânea" >Artigo - O Impacto da Tecnologia na Sociedade Contemporânea</a> -> CSS Propriedades <br>
     
 </div>
 <div>
