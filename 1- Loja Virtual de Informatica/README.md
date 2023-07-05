@@ -1,4 +1,4 @@
-<h2>Exercicio prático: Documento em HTML</h2>
+<h2>Exercício prático: Documento em HTML</h2>
 <div>
   <h3>Esse exercicio foi realizado com o proposito de construir um documento em HTML.</h3>
   <h3>Objetivo</h3>
