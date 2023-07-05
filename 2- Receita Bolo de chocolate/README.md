@@ -1,6 +1,6 @@
 <h2>Praticando CSS - Basico</h2>
 <div>
-    <p>Este exercicio foi realizado utilizando metodos de camada.</p>
+    <h3>Este exercicio foi realizado utilizando metodos de camada.</h3>
         1ª Camada: Criar a estrutura de pastas e o arquivo HTML.<br>
         2ª Camada: Criar o código HTML da página.<br>
         3ª Camada: Criar o código CSS da página; Arquivo CSS e link com arquivo HTML; Estilizando a página com código CSS.<br> 
