@@ -29,3 +29,8 @@ span {
 a {
     text-decoration: none;
 }
+
+footer {
+    font-size: 18px;
+    text-align: center;
+}
