@@ -7,7 +7,7 @@
     1. title<br>
     2. meta (description, charset, viewport, robots)<br>
     3. link<br>
-    4. style<br>
+    4. style (css)<br>
     </p>
 </div>
 
