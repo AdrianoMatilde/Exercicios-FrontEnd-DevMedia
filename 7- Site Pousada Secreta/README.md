@@ -1,27 +1,38 @@
-<h2>Projeto: Pousada Segredo</h2>
-<div>
-  <h3>Esse projeto foi realizado com o proposito de construir um documento em HTML e CSS.</h3>
-  <p>Foram aplicados a este site os conteúdos estudados até o momento de HTML e CSS como missão 7 na plataforma da DevMedia.<br>A cada dia um degrau, a cada passo uma nova experiencia, a cada momento mais um desafio.<br>
+<h1>Projeto: Pousada Segredo</h1>
+<p>Este é o repositório para o website da Pousada Secreta em Angra dos Reis, RJ. Exercicio realizado na Plataforma DevMedia.<br>O projeto apresenta um site moderno e responsivo para uma pousada, construído com tecnologias web padrão, HTML e CSS.</p>
+
+<h2>Objetivos do exercício</h2>
+<p>Esse projeto foi realizado com o proposito de construir um documento em HTML e CSS.<br>
+Foram aplicados a este site os conteúdos estudados até o momento de HTML e CSS como missão 7 na plataforma da DevMedia.</p>
+
+<h2>Tecnologias Utilizadas</h2>
+<ul>
+  <li>HTML: A estrutura do site foi desenvolvida usando HTML (Hypertext Markup Language), proporcionando uma base sólida para a construção do conteúdo da página.</li>
+  <li>CSS: O estilo visual do site foi estilizado usando CSS (Cascading Style Sheets). Foram aplicadas técnicas avançadas de CSS, como flexbox para layouts flexíveis e responsivos, e efeitos como transições e transformações para criar uma experiência de usuário agradável.</li>
+</ul>
+
+<h2>Minhas considerações</h2>
+<p>A cada dia um degrau, a cada passo uma nova experiencia, a cada momento mais um desafio.<br>
 Não podemos parar, todo aprendizado tem seus frutos.
 Aos poucos a gente vai alcançando o objetivo, ainda tenho muito que aprender.<br>
-Fico grato por tudo até aqui, pois ainda tem mais pra acontecer!
-</p>
-</div>
+Fico grato por tudo até aqui, pois ainda tem mais pra acontecer!</p>
 
-<div>
-  <h3>Contato</h3>
-  Se você tiver alguma dúvida, sugestão ou feedback, fique à vontade para entrar em contato comigo. 
-  <br>
-  Espero que esta estrutura básica ajude você a criar o seu README. Sinta-se à vontade para personalizá-lo e adicionar informações adicionais que sejam relevantes para os seus exercícios.<br>
-  Continue acompanhando minha evolução!<br>
-  Deixe suas dicas, melhorias, opniões e incentivos.<br>
-  <br>
-  Entre com contato:<br>
-  <a href="mailto:adrianomatilde@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"></a>
-  <a href="https://www.linkedin.com/in/adrianomsj/" target="blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
-  </a>
-</div>
+<h2>Como Contribuir</h2>
+<p>Se você gostaria de contribuir para este projeto, sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias ou correções. Suas contribuições são bem-vindas!</p>
+
+
+<h2>Contato</h2>
+<p>Se você tiver alguma dúvida, sugestão ou feedback, fique à vontade para entrar em contato comigo. 
+<br>
+Espero que esta estrutura básica ajude você a criar o seu README. Sinta-se à vontade para personalizá-lo e adicionar informações adicionais que sejam relevantes para os seus exercícios.<br>
+Continue acompanhando minha evolução!<br>
+Deixe suas dicas, melhorias, opniões e incentivos.<br>
+<br>
+Entre com contato:<br></p>
+<a href="mailto:adrianomatilde@gmail.com" target="blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"></a>
+<a href="https://www.linkedin.com/in/adrianomsj/" target="blank">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
+</a>
 
 <img src="Pagina-home-site.png"/>
 <img src="Pagina-quartos-site.png"/>
