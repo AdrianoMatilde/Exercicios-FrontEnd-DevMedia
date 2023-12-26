@@ -5,6 +5,12 @@
     padding: 0;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
+    scroll-behavior: smooth;
+}
+
+.body {
+    display: flex;
+    width: 100%;
 }
 
 .limitar-secao {
@@ -15,8 +21,8 @@
 
 /* Topo da página */
 .bck-yellow {
-    background-color: #edbb6c;
-    color: #004f40;
+    background-color: #ffffff;
+    color: #0d8a73;
 }
 
 .container-topo {
@@ -62,7 +68,7 @@
 
 /* Banner da página */
 .secao-banner {
-    background-color: #004f40;
+    background-color: #0d8a73;
 }
 
 .container-banner {
@@ -108,7 +114,7 @@
     border-radius: 4px;
     text-decoration: none;
     text-align: center;
-    background-color: #004f40;
+    background-color: #0d8a73;
     color: #fff;
     cursor: pointer;
 }
@@ -148,7 +154,7 @@
 .secao-informacoes {
     padding: 100px 0px;
     text-align: center;
-    background-color: #004f40;
+    background-color: #0d8a73;
 }
 
 .secao-informacoes h2 {
@@ -159,7 +165,7 @@
 }
 
 .secao-informacoes h2 span {
-    color: #2f86d6;
+    color: #fff;
 }
 
 .container-informacoes {
@@ -207,13 +213,13 @@ color: #cac7c7;
 }
 
 .secao-planos h2 span {
-    color: #2f86d6;
+    color: #fff;
 }
 
 table {
     border-radius: 4px;
     margin: auto;
-    box-shadow: 0px 2px 40px 15px #004f40;
+    box-shadow: 0px 2px 40px 15px #0d8a73;
 }
 
 table thead th {
@@ -284,7 +290,7 @@ table tbody td {
 
 /* Rodapé */
 .green {
-    background-color: #004f40;
+    background-color: #0d8a73;
 }
 
 .rodape-logo {
@@ -326,7 +332,7 @@ table tbody td {
     font-weight: 600;
     text-align: center;
     padding: 40px 0px;
-    background-color: #edbb6c;
+    background-color: #ffffff;
 }
 
 .container-copyright span {
@@ -359,7 +365,7 @@ li {
 #link-topo {
     text-decoration: none;
     color: #edbb6c;
-    background-color: #004f40;
+    background-color: #0d8a73;
     padding: 10px;
     position: fixed;
     right: 10px;
@@ -370,5 +376,5 @@ li {
 
 #sombra {
     border-radius: 50%;
-    box-shadow: 3px 3px 10px #333;
+    box-shadow: 3px 3px 10px #0d8a73;
 }
