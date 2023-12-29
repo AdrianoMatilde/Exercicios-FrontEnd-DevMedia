@@ -1,0 +1,186 @@
+/* Estilos gerais */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.limitar-secao {
+    width: 100%;
+    max-width: 1024px;
+    margin: 0 auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+/* Topo */
+main {
+    color: #0000008c;
+    margin-bottom: 60px;
+}
+
+header {
+    width: 100%;
+    background-color: #00cad1;
+}
+
+.topo {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    min-height: 60px;
+    padding: 0 10px;
+    margin: 0 auto;
+    font-weight: 600;
+    color: #fff;
+}
+
+.logo img {
+    height: 60px;
+}
+
+.links-topo {
+   display: flex;
+   justify-content: space-around;
+   flex-wrap: wrap;
+   list-style: none;
+   gap: 20px;
+   padding: 10px;
+   
+}
+
+.links-topo a {
+    color: #fff;
+}
+
+.links-topo a:hover {
+    color: #004b4c;
+}
+
+
+/* Banner */
+.banner {
+    width: 100%;
+    height: 500px;
+    position: relative;
+
+    background-image: url(../assets/recepcao.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.box-visao-geral-titulo{
+    height: 100%;
+    color: #fff;
+    padding: 10px;
+    display: flex;
+    align-items: center;
+  }
+
+.banner h1 {
+    font-weight: 500;
+    text-transform: uppercase;
+    font-size: 38px;
+    margin: 0;
+}
+
+
+/* Sobre */
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    align-items: center;
+    text-align: center;
+    padding: 0 50px;
+}
+
+.info-detalhes {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+
+.info-lista {
+   display: flex;
+
+   flex-direction: column;
+   flex-wrap: wrap;
+   gap: 20px;
+   align-items: center;
+}
+
+
+/* Especialidades */
+.galeria {
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    padding: 20px 0;
+}
+
+.info-cards {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 20px;
+}
+
+.info-cards img {
+    width: 300px;
+    height: auto;
+}
+
+figure {
+    box-shadow: 0px 0px 5px 3px gray;
+    border-radius: 2px;
+}
+
+figcaption {
+    text-align: center;
+    padding: 10px;
+    text-transform: uppercase;
+}
+
+.horario {
+    text-align: center;
+    padding: 10px;
+}
+
+.horario a {
+    color: #fff;
+    padding: 10px;
+    border-radius: 2px;
+}
+
+
+/* Contato */
+.contato {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 10px;
+}
+
+
+/* Rodapé */
+footer {
+    background-color: #0d6e71;
+    color: #fff;
+    padding: 20px;
+}
+
+footer .limitar-secao {
+    text-align: center;
+}
