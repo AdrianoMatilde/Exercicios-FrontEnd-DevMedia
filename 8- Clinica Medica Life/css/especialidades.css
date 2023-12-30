@@ -1,0 +1,60 @@
+section {
+    padding: 20px 0;
+}
+
+.nav-especialidades {
+    display: flex;
+    flex-direction: column;
+    justify-content:center;
+    align-items: center;
+    gap: 20px;
+
+    background-color: aquamarine;
+}
+
+.links-especialidades {
+    display: flex;
+    justify-content: space-around;
+    gap: 10px;
+}
+
+.links-especialidades a {
+    color: black;
+    font-weight: 600;
+    border-bottom: 2px solid #00cad1;
+}
+
+.links-especialidades a:hover {
+    color: #00cad1;
+    border-bottom: 2px solid black;
+}
+
+/* Seção Especialidades */
+.secao-especialidades {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    background-color: #00cad1;
+}
+
+.info {
+    background-color: bisque;
+    padding: 20px;
+}
+
+
+.card-especialidade {
+    display: flex;
+    flex-direction: column;
+}
+
+.tabela-horarios {
+    display: flex;
+}
+
+.tabela-horarios img {
+    width: 350px;
+    height: auto;
+    background-size: cover;
+}

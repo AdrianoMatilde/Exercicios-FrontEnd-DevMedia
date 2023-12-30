@@ -27,3 +27,44 @@
     <li> Certifique-se de que as classes estão sendo reutilizadas quando possível (você não deve criar diferentes classes que possuem o mesmo estilo CSS).</li>
     <li> Certifique-se de que os containers que limitam a largura dos seus conteúdos a 1024px fiquem centralizados na página.</li>
 </ul>
+
+<h2>Para garantir que seu passo 3 está completo, verifique os itens abaixo:</h2>
+<ul>
+    <li> Certifique-se de que a meta tag viewport foi inserida no HTML da página home (arquivo index.html).</li>
+    <li> Certifique-se de que o box com a imagem de fundo (o que tem o título "Clínica Médica Life aqui a gente cuida de você") esteja mudando de altura nas resoluções 425px, 768px, 1024px.</li>
+    <li> Certifique-se de que a imagem no container 'sobre' só apareça acima de 768px de largura da tela.</li>
+    <li> Certifique-se de que os boxes com as especialidades - os cards que possuem uma imagem legendada com o nome da especialidade (ortopedia, pediatria e geriatria), se ajustem baseado no tamanho da tela.</li>
+</ul>
+
+<h2></h2>
+<ul>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+</ul>
+
+<h2></h2>
+<ul>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+</ul>
+
+<h2></h2>
+<ul>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+    <li> </li>
+</ul>
