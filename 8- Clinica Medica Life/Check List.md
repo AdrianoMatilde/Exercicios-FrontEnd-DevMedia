@@ -36,13 +36,25 @@
     <li> Certifique-se de que os boxes com as especialidades - os cards que possuem uma imagem legendada com o nome da especialidade (ortopedia, pediatria e geriatria), se ajustem baseado no tamanho da tela.</li>
 </ul>
 
-<h2></h2>
+<h2>Para garantir que seu passo 4 está completo, verifique os itens abaixo:</h2>
 <ul>
-    <li> </li>
-    <li> </li>
-    <li> </li>
-    <li> </li>
-    <li> </li>
+    <li> Certifique-se ter inserido o título da página (tag Title) e definido o charset da página (meta tag charset UTF-8) dentro da tag <head></head>.</li>
+    <li> Certifique-se de que a estrutura HTML usa tags do HTML semântico.</li>
+    <li> Certifique-se de que os links âncora estão apontando para os locais corretos. São eles:>
+        <ul>
+            <li> Ortopedia</li>
+            <li> Pediatria</li>
+            <li> Geriatria</li>
+            <li> Psicologia</li>
+            <li> Fisioterapia</li>
+        </ul>
+    <li> Certifique-se de que as imagens estão sendo exibidas na tela.</li>
+    <li> Certifique-se de que os links do topo apontam para a página correta:</li>
+    <li> A logo deve abrir a página home.</li>
+    <li> O link "Sobre" deve abrir a página home na sessão "Sobre a clínica".</li>
+    <li> O link "Especialidades" deve abrir a própria página Especialidades.</li>
+    <li> O link "Contato" deve abrir a página home na sessão que possui os dados de contato e o iframe.</li>
+    <li> Na página home certifique-se de que o link "Especialidades" no topo e o link "Ver horário" estejam apontando para a página Especialidades.</li>
     <li> </li>
     <li> </li>
 </ul>
@@ -57,6 +69,25 @@
     <li> </li>
     <li> </li>
 </ul>
+
+Para garantir que seu passo 5 está completo, verifique os itens abaixo:
+
+Certifique-se de ter inserido as classes CSS nas tags HTML (arquivo index.html).
+Certifique-se de que os links âncoras das especialidades mudem de cor quando o mouse estiver sobre eles. São eles:
+Ortopedia
+Pediatria
+Geriatria
+Psicologia
+Fisioterapia
+Certifique-se de que as classes estão sendo reutilizadas quando possível (você não deve criar diferentes classes que possuem o mesmo estilo CSS).
+Certifique-se de que a imagem está à esquerda da tabela e que ambas possuem a mesma altura.
+Certifique-se de que as linhas das tabelas estão com cores diferentes.
+Cabeçalho com uma cor única.
+Linhas pares com outra cor.
+Linhas ímpares com outra cor.
+
+
+
 
 <h2></h2>
 <ul>
