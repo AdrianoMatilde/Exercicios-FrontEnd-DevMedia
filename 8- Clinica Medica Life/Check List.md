@@ -59,43 +59,21 @@
     <li> </li>
 </ul>
 
-<h2></h2>
+<h2>Para garantir que seu passo 5 está completo, verifique os itens abaixo:</h2>
 <ul>
-    <li> </li>
-    <li> </li>
-    <li> </li>
-    <li> </li>
-    <li> </li>
-    <li> </li>
-    <li> </li>
-</ul>
-
-Para garantir que seu passo 5 está completo, verifique os itens abaixo:
-
-Certifique-se de ter inserido as classes CSS nas tags HTML (arquivo index.html).
-Certifique-se de que os links âncoras das especialidades mudem de cor quando o mouse estiver sobre eles. São eles:
-Ortopedia
-Pediatria
-Geriatria
-Psicologia
-Fisioterapia
-Certifique-se de que as classes estão sendo reutilizadas quando possível (você não deve criar diferentes classes que possuem o mesmo estilo CSS).
-Certifique-se de que a imagem está à esquerda da tabela e que ambas possuem a mesma altura.
-Certifique-se de que as linhas das tabelas estão com cores diferentes.
-Cabeçalho com uma cor única.
-Linhas pares com outra cor.
-Linhas ímpares com outra cor.
-
-
-
-
-<h2></h2>
-<ul>
-    <li> </li>
-    <li> </li>
-    <li> </li>
-    <li> </li>
-    <li> </li>
-    <li> </li>
-    <li> </li>
+    <li> Certifique-se de ter inserido as classes CSS nas tags HTML (arquivo index.html).</li>
+    <li> Certifique-se de que os links âncoras das especialidades mudem de cor quando o mouse estiver sobre eles. São eles:</li>
+        <ul>
+            <li> Ortopedia</li>
+            <li> Pediatria</li>
+            <li> Geriatria</li>
+            <li> Psicologia</li>
+            <li> Fisioterapia</li>
+        </ul>
+    <li> Certifique-se de que as classes estão sendo reutilizadas quando possível (você não deve criar diferentes classes que possuem o mesmo estilo CSS).</li>
+    <li> Certifique-se de que a imagem está à esquerda da tabela e que ambas possuem a mesma altura.</li>
+    <li> Certifique-se de que as linhas das tabelas estão com cores diferentes.</li>
+    <li> Cabeçalho com uma cor única.</li>
+    <li> Linhas pares com outra cor.</li>
+    <li> Linhas ímpares com outra cor.</li>
 </ul>
