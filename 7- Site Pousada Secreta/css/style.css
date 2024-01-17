@@ -235,3 +235,10 @@
   text-decoration: none;
   color: #fff;
 }
+
+
+@media (max-width: 490px) {
+  .container-logotipo {
+    text-align: center;
+  }
+}
