@@ -42,7 +42,6 @@ body {
     background-color: rgba(98, 101, 104, 0.61);
     border-radius: 5px;
     box-shadow: 2px 2px 8px 5px rgb(0, 0, 0);
-    cursor: pointer;
 }
 
 .container h1 {
@@ -63,13 +62,14 @@ body {
     padding: 8px;
     border-radius: 5px;
     font-size: 22px;
-    color: green;
+    color: #008000;
 }
 
 .resultado p {
     padding-top: 5px;
     font-size: 18px;
     font-weight: 600;
+    cursor: pointer;
 }
 
 .resultado p:hover {
@@ -78,5 +78,42 @@ body {
 }
 
 span {
-    color: rgb(177, 29, 29);
+    color: #b11d1d;
+}
+
+
+.aprov-icon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Estilo inicial para o ícone */
+.aprov-icon i {
+    visibility: hidden;
+    color: #008000;
+}
+
+/* Efeito hover para mostrar o ícone */
+.aprov-icon:hover i {
+    visibility: visible;
+}
+
+
+
+.reprov-icon {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+/* Estilo inicial para o ícone */
+.reprov-icon i {
+    visibility: hidden;
+    color: #b11d1d;
+}
+
+/* Efeito hover para mostrar o ícone */
+.reprov-icon:hover i {
+    visibility: visible;
 }
