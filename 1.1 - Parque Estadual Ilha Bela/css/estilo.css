@@ -1,0 +1,115 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.limite-area {
+    max-width: 940px;
+    width: 100%;
+}
+
+.topo {
+    width: 100%;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: brown;
+    color: #fff;
+    font-size: 10px;
+}
+
+.conteudo-principal {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.imagem-ilha {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 40px 25px 40px;
+    overflow: hidden;
+    position: relative;
+    width: auto;
+    height: auto;
+}
+
+.imagem-ilha img {
+    width: 100%;
+    height: auto;
+}
+
+figcaption {
+    width: 100%;
+    position: absolute;
+    bottom: 0;
+    padding-inline: 10px;
+    border: none;
+    background-color: rgba(190, 185, 185, 0.849);
+    color: black;
+}
+
+.conteudo-info {
+    margin-bottom: 20px;
+    font-size: 16px;
+    margin-inline: 10px;
+}
+
+h2, h3 {
+    margin-bottom: 4px;
+    width: 100%;
+    background-color: rgb(190, 185, 185);
+
+}
+
+.column {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+.column a {
+    margin: 0 auto;
+}
+
+.column a:hover {
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: #fff;
+    background-color: rgb(190, 185, 185);
+    margin-inline: 50px;
+    border-radius: 4px;
+    padding-inline: 5px;
+}
+
+.rodape {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    padding: 5px;
+    background-color: brown;
+    bottom: 0;
+    position: sticky;
+    font-size: 12px;
+}
+
+@media (max-width: 469px) {
+    .topo,
+    .conteudo-info
+    {
+        font-size: 14px;
+    }
+
+}
