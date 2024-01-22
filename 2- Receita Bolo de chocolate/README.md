@@ -16,8 +16,9 @@
 
 <h2>Minhas considerações</h2>
 <p>Neste exercicio pude praticar os conteudos até aqui aprendidos e coloca-los em pratica.</p>
+
+<p>Durante o curso eu aprendi:</p>
 <ul>
-  <p>Durante o curso eu aprendi:</p>
   <li>O que é CSS</li>
   <li>A sintaxe do código CSS</li>
   <li>Propriedades de texto e de cor</li>
