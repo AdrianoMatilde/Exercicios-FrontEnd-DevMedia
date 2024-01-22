@@ -1,5 +1,5 @@
 <h1>Projeto: Parque Estadual ilha Bela</h1>
-<p>Exercicio realizado como atividade prática na Plataforma DevMedia.<br>O projeto apresenta um artigo moderno e responsivo para o Parque Estadual Ilha Bela, construído com tecnologias web padrão, HTML e CSS.</p>
+<p>Exercício realizado como atividade prática na Plataforma DevMedia.<br>O projeto apresenta um site moderno e responsivo para o Parque Estadual Ilha Bela, construído com tecnologias web padrão, HTML e CSS.</p>
 
 <h2>Objetivos do exercício</h2>
 <p>Esse projeto foi realizado com o proposito de construir um documento em HTML e CSS responsivo aplicando as aulas estudadas.</p>
