@@ -52,7 +52,25 @@ section {
 }
 
 .receita h2 {
-    margin-bottom: 10px;
+    width: 400px;
+}
+
+.receita h2, .receita-ingredientes h3 {
+    margin-block: 10px;
+    border-radius: 39px 56px 56px 42px / 0px 35px 35px 0px;
+    background-color: rgb(132, 136, 136);
+    padding: 5px;
+    color: #fff;
+}
+
+.receita-ingredientes {
+    display: flex;
+    flex-direction: column;
+
+}
+
+.receita-ingredientes h3 {
+    width: 200px;
 }
 
 .receita img {
@@ -65,9 +83,6 @@ section {
     margin-block: 20px;
 }
 
-.receita-ingredientes h3 {
-    margin-bottom: 5px;
-}
 
 ul, ol {
     margin-left: 40px;
@@ -80,6 +95,7 @@ footer {
     justify-content: center;
     align-items: center;
     position: sticky;
+    font-size: 12px;
     background-color: rgb(214, 139, 26);
 
 }
