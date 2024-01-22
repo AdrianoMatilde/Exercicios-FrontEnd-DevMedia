@@ -12,7 +12,7 @@
 <p>Nesta missão nosso foco é posicionar e exibir elementos HTML, por isso não vamos nos preocupar com a estética, ou seja, em criar estilos CSS.</p>
 
 <h2>Tecnologias Utilizadas</h2>
-<ul type="cicle">
+<ul>
   <li>HTML: A estrutura do site foi desenvolvida usando HTML (Hypertext Markup Language), proporcionando uma base sólida para a construção do conteúdo da página.</li>
 </ul>
 
