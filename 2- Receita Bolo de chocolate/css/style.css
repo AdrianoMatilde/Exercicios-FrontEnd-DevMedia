@@ -2,84 +2,84 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
 
+body {
     background-color: rgb(238, 235, 231);
     font-family:Arial, Helvetica, sans-serif;
-    font-size: 16px;
-
     color: rgb(54, 55, 56);
-
     scroll-behavior: smooth;
-    width: 100%;
-    height: auto;
 }
 
-body, main {
-    margin: 0;
+header {
     width: 100%;
-
+    height: 55px;
     display: flex;
-    flex-wrap: wrap;
-    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(214, 139, 26);
 }
+
+header h1 {
+    text-align: center;
+    font-size: 20px;
+    color: #fff;
+}
+
+
 
 section {
+    width: 100%;
+    height: 100%;
     display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    padding: 20px 20px 10px;
+    justify-content: center;
 }
 
-h1 {
-    text-align: center;
-    margin-bottom: 20px;
+.limite-area {
+    max-width: 940px;
+    width: 100%;
 }
 
-article {
-    display: flex;
-    flex-direction: column;
-    flex-wrap: wrap;
-    gap: 5px;
 
-    border: 1px solid black;
-    padding: 30px;
-}
-
-article h2 {
-    text-align: center;
-    text-decoration: underline;
-}
-
-img {
-    border: 1px solid rgb(255, 255, 255);
-    box-shadow: 2px 2px 2px 2px black;
-}
 
 .receita {
-    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    overflow: hidden;
+    font-size: 15px;
+    margin: 20px 10px 20px 10px;
 }
 
-h3 {
-    margin-top: 5px;
+.receita h2 {
+    margin-bottom: 10px;
 }
 
-p {
-    padding-left: 20px;
+.receita img {
+    width: 100%;
+    height: auto;
+    border-radius: 4px;
 }
 
-ol {
-    padding-left: 40px;
+.receita-ingredientes {
+    margin-block: 20px;
 }
 
-h1, h2, h3 {
-    font-size: 20px;
+.receita-ingredientes h3 {
+    margin-bottom: 5px;
 }
 
-p, li {
-    line-height: 25px;
-    font-style: italic;
+ul, ol {
+    margin-left: 40px;
 }
 
 footer {
-    text-align: center;
+    width: 100%;
+    height: 55px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    background-color: rgb(214, 139, 26);
+
 }
