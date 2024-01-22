@@ -9,7 +9,7 @@
   <li>Ao criar o arquivo HTML desse projeto, você vai poder colocar em prática o seguinte conceito:
 * Utilizar tags HTML (básicas)</li>
 </ul>
-<p>Nesta missão nosso foco é posicionar e exibir elementos HTML, por isso não vamos nos preocupar com a estética, ou seja, em criar estilos CSS.</p>
+<p>Nesta missão o foco é posicionar e exibir elementos HTML, sem preocupar com a estética, ou seja, em criar estilos CSS.</p>
 
 <h2>Tecnologias Utilizadas</h2>
 <ul>
