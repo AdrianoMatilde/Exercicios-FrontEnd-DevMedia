@@ -2,6 +2,7 @@
 <div>
   <h3>Esse exercicio foi realizado com o proposito de construir um documento em HTML.</h3>
   <h3>Objetivo</h3>
+  <p>Primeiro contato com HTML utilizando VS Code.</p>
   <p>1. A proposta desse projeto é criar um site sem estilização utilizando a tecnologia HTML.<br>
   2. Teremos apenas um único arquivo HTML que conterá informações sobre um parque.<br>
   3. Ao criar o arquivo HTML desse projeto, você vai poder colocar em prática o seguinte conceito:<br>
