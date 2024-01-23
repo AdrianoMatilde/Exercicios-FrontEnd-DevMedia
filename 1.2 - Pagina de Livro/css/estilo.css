@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    width: 100%;
+    height: auto;
+    margin: 0 auto;
+    font-family: 'Roboto', sans-serif;
+    color: black;
+}
+
+header {
+    width: 100%;
+    height: 55px;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+    background-color: aquamarine;
+    overflow: hidden;
+}
+
+.livro-logo {
+    width: 30px;
+    height: 30px;
+    padding-left: 20px;
+}
+
+header span {
+    margin-left: 5px;
+    font-size: 16px;
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+.limite-secao {
+    width: 100%;
+    max-width: 940px;
+    box-shadow: 0px 10px 10px 0px black;
+}
+
+.conteudo-principal {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+    text-align: center;
+    font-size: 16px;
+    overflow: hidden;
+}
+
+.secao-livro img {
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    border: none;
+    margin-bottom: 10px;
+}
+
+.secao-livro,
+.secao-descricao,
+.secao-autor
+{
+    padding-block: 10px;
+}
+
+h2,
+.secao-livro p,
+.espacamento
+{
+    margin-bottom: 20px;
+}
+
+h3 {
+    letter-spacing: 1px;    
+    margin-bottom: 10px;
+    background-color: grey;
+}
+
+a {
+    text-decoration: none;
+}
+
+.botao-compra {
+    background-color: green;
+    color: #fff;
+    padding: 8px;
+    border-radius: 20px;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.botao-compra:hover {
+    background-color: #fff;
+    color: green;
+    padding: 8px;
+    border-radius: 20px;
+    border: 1px solid green;
+}
+
+.secao-autor img {
+    max-width: 150px;
+    width: 100%;
+    height: auto;
+}
+
+.secao-autor span {
+    text-decoration: 2px green underline;
+}
+
+.espacamento {
+    letter-spacing: 1px;
+}
+
+.rodape {
+    width: 100%;
+    height: 50px;
+    position: sticky;
+
+    background-color: aquamarine;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    font-size: 13px;
+}
+
+.rodape a {
+    color: black;
+}
