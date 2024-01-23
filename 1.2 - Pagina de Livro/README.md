@@ -6,6 +6,7 @@
 A proposta desse projeto é criar uma página web utilizando as tecnologias HTML e CSS.<br>Uma única página que conterá informações sobre um determinado produto, neste caso um livro.</p>
 
 <h2>Tecnologias Utilizadas</h2>
+
 <ul>
   <li>HTML (básicas): A estrutura do site foi desenvolvida usando HTML (Hypertext Markup Language), proporcionando uma base sólida para a construção do conteúdo da página.</li>
   <li>CSS: O estilo visual do site foi estilizado usando CSS (Cascading Style Sheets). Foram aplicadas técnicas avançadas de CSS, como flexbox para layouts flexíveis e responsivos, e efeitos como transições e transformações para criar uma experiência de usuário agradável.</li>
