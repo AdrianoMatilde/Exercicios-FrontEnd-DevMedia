@@ -17,8 +17,9 @@ header {
     display: flex;
     align-items: center;
     justify-content: start;
-    background-color: aquamarine;
+    background-color: #10454F;
     overflow: hidden;
+    color: #fff;
 }
 
 .livro-logo {
@@ -26,6 +27,7 @@ header {
     height: 30px;
     padding-left: 20px;
 }
+
 
 header span {
     margin-left: 5px;
@@ -76,9 +78,10 @@ h2,
 }
 
 h3 {
-    letter-spacing: 1px;    
+    letter-spacing: 2px;    
     margin-bottom: 10px;
-    background-color: grey;
+    background-color: #506266;
+    color: #fff;
 }
 
 a {
@@ -113,6 +116,7 @@ a {
 }
 
 .espacamento {
+    margin-top: 10px;
     letter-spacing: 1px;
 }
 
@@ -121,15 +125,17 @@ a {
     height: 50px;
     position: sticky;
 
-    background-color: aquamarine;
+    background-color: #10454F;
 
     display: flex;
     flex-direction: column;
     justify-content: center;
     text-align: center;
     font-size: 13px;
+    color: #fff;
+
 }
 
 .rodape a {
-    color: black;
+    color: #fff;
 }
