@@ -10,6 +10,8 @@
 <div align="left">
   <h3>Lista dos exercícios:</h3>
   1. <a href="1- Loja Virtual de Informatica">Loja Virtual de Informática</a> -> HTML - Tags Básicas <br>
+  1.1 <a href="1.1 - Parque Estadual Ilha Bela">Parque Estadual Ilha Bela</a> -> HYML e CSS (media queries) <br>
+  1.2 <a href="1.2 - Pagina de Livro">Site Livraria Diversus (Pagina do Livro)</a>  -> HYML e CSS <br>
   2. <a href="2- Receita Bolo de chocolate" >Receita Bolo de chocolate</a> -> CSS Introdução <br>
   3. <a href="3- Bolo de Milho Fofinho e Cremoso" >Bolo de Milho Fofinho e Cremoso</a> -> CSS Introdução <br>
   4. <a href="4- Lista de alunos-Meta Tags" >Lista de alunos</a> -> HTML - Meta Tags <br> 
