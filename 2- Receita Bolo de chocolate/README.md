@@ -44,4 +44,4 @@ Entre com contato:<br></p>
 </a>
 
 
-<img src="receita-vovo-mineiro.png"/>
+<img src="page-site-vovo-mineiro.png"/>
