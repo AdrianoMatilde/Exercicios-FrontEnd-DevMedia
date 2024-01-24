@@ -4,44 +4,142 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-whidth, initial-scale=1.0">
-    <link rel="stylesheet" href="style/estyle.css" type="text/css">
+    
     <title>Bolo de Milho Fofinho</title>
+
+    <link rel="stylesheet" href="style/estyle.css" type="text/css">
+    <link rel="icon" href="./assets/icon-chef.png">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto&display=swap" rel="stylesheet">
+
 </head>
 
-<Body>
-    <div>
-        <h1>Bolo de Milho Fofinho e Cremoso</h1>
-        <h2>Prático e fácil</h2>
-        <img src="assets/Bolo-de-milho-cremoso.webp" alt="Bolo de Milho Cremoso" width="1000" height="300">
-        
-    </div>
-    <div>
-        <h3>Ingredientes</h3>
-        <p>4 ovos</p>
-        <p>400 gramas de milho verde (2 latas ou 3 espigas)</p>
-        
-        <p>1 pitada de sal</p>
-        <p>1 xícara de chá de óleo</p>
-        <p>1 xícara de chá de leite</p>
-        <p>2 xícaras de chá de açúcar</p>
-        <p>1/2 xícara de chá de farinha de trigo</p>
-        <p>1/2 xícara de chá de Amido de Milho Maizena</p>
-        <p>1 colher de sopa de fermento em pó</p>
-        <p>2 colheres de sopa de coco ralado (opcional)</p>
-    </div>
-    <div>
-        <h3>Modo de Preparo</h3>
-        <p>1 - Pré-aqueça o forno em temperatura média (180° C).</p>
-        <p>2 - Unte e enfarinhe uma assadeira retangular média.</p>
-        <p>3 - No copo do liquidificador, coloque os ovos, o milho, o sal, o óleo, o leite e o açúcar, e bata até ficar
-            homogêneo.</p>
-        <p>4 - Acrescente a farinha de trigo, a MAIZENA® e o fermento, e bata novamente.</p>
-        <p>5 - Disponha a massa na assadeira, polvilhe na superfície o coco ralado e leve ao forno por 45 minutos, ou
-            até que um palito, depois de espetado na massa saia limpo.</p>
-        <p>6 - Retire o forno, deixe esfriar, desenforme e corte em quadrados. Sirva a seguir!</p>
-        <p></p>
-    </div>
+<body>
+    <header>
+        <div class="limite-secao">
+            <div class="topo">
+                <img class="logo" src="./assets/logo-chef.png" alt="logo receitas da vovó Chica" title="Logo">
 
-</Body>
+                <h1 class="titulo-site">Receitas do Vovô Chico</h1>
+            </div>
+        </div>
+        <div class="linha-detalhe"></div>
+    </header>
+    
+    <main class="flex">
+        <section class="limite-secao">
+            <div class="secao-principal">
+                <div class="secao-titulo">
+                    <h1>Bolo de Milho fofinho e cremoso</h1>
+                    <div class="flex-subtitulo">
+                        <h2>Prático e fácil</h2>
+                        <img class="img-subtitulo" src="./assets/img-subtitulo.png" alt="imagem subtitulo">
+                        
+                    </div>
+                    
+                    <figure>
+                        <img class="img-banner" src="assets/Bolo-de-milho-cremoso.webp" alt="Bolo de Milho Cremoso" alt="Bolo de Milho fofinho e cremoso" title="Bolo de Milho fofinho e cremoso">
+                        <figcaption class="subtitulo-img-banner">Faça um bolo igual ao da roça.</figcaption>
+                    </figure>
+                </div>
+
+                <fieldset class="secao-receita">
+                    <legend><strong>Ingredientes</strong> </legend>
+                    <div>
+                        <input type="checkbox" name="ovos" id="ovos">
+                        <label for="ovos">4 Ovos</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="milho verde" id="milho verde">
+                        <label for="milho verde">400 gramas de milho verde (2 latas ou 3 espigas)</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="sal" id="sal">
+                        <label for="sal">1 pitada de sal</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="oleo" id="oleo">
+                        <label for="oleo">1 xícara de chá de óleo</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="leite" id="leite">
+                        <label for="leite">1 xícara de chá de leite</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="acucar" id="acucar">
+                        <label for="acucar">2 xícaras de chá de açúcar</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="farinha de trigo" id="farinha de trigo">
+                        <label for="farinha de trigo">1/2 xícara de chá de farinha de trigo</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="maizena" id="maizena">
+                        <label for="maizena">1/2 xícara de chá de Amido de Milho Maizena</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="fermento" id="fermento">
+                        <label for="fermento">1 colher de sopa de fermento em pó</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="coco" id="coco">
+                        <label for="coco">2 colheres de sopa de coco ralado (opcional)</label>
+                    </div>
+                </fieldset>
+
+
+                <fieldset class="secao-receita">
+                    <legend><strong>Modo de Preparo</strong></legend>
+                    <div>
+                        <input type="checkbox" name="passo1" id="passo1">
+                        <label for="passo1">1 - Pré-aqueça o forno em temperatura média (180° C).</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="passo2" id="passo2">
+                        <label for="passo2">2 - Unte e enfarinhe uma assadeira retangular média.</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="passo3" id="passo3">
+                        <label for="passo3">3 - No copo do liquidificador, coloque os ovos, o milho, o sal, o óleo, o leite e o açúcar, e bata até ficar
+                            homogêneo.</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="passo4" id="passo4">
+                        <label for="passo4">4 - Acrescente a farinha de trigo, a MAIZENA® e o fermento, e bata novamente.</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="passo5" id="passo5">
+                        <label for="passo5">5 - Disponha a massa na assadeira, polvilhe na superfície o coco ralado e leve ao forno por 45 minutos, ou
+                            até que um palito, depois de espetado na massa saia limpo.</label>
+                    </div>
+                    <div>
+                        <input type="checkbox" name="passo6" id="passo6">
+                        <label for="passo6">6 - Retire o forno, deixe esfriar, desenforme e corte em quadrados. Sirva a seguir!</label>
+                    </div>
+                </fieldset>
+            </div>
+        </section>
+
+        <section class="limite-secao">
+            <div class="secao-compartilhe">
+                <h3>Gostou da nossa receita?</h3>
+                <p>Compartilhe para mais pessoas!</p>
+            </div>
+        </section>
+
+        <footer class="flex">
+            <div class="limite-secao rodape ">
+                <div>
+                    &copy 2024 Receitas do Vovô Chico
+                </div>
+                <div>
+                    Desenvolvido por Adriano Silva
+                </div>
+            </div>
+        </footer>
+    </main>
+</body>
 
 </html>
