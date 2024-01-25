@@ -3,6 +3,7 @@
 
 <h2>Objetivos do exercício</h2>
 <p>Esse projeto foi realizado com o proposito de construir um documento em HTML e CSS responsivo aplicando as aulas estudadas.</p>
+<p>Reatorado o codigo e estilizado após outras aulas realizadas na plataforma</p>
 
 <h2>Tecnologias Utilizadas</h2>
 <ul>

@@ -1,8 +1,8 @@
 <h1>Projeto: Loja Virtual de Informática</h1>
 <p>Exercício realizado como atividade prática na Plataforma DevMedia.<br>O projeto foi realizado com o propósito de construir um documento em HTML.</p>
+<p>Primeiro contato com HTML utilizando VS Code.</p>
 
 <h2>Objetivos do exercício</h2>
-<p>Primeiro contato com HTML utilizando VS Code.</p>
 <ul>
   <li>A proposta desse projeto é criar um site sem estilização utilizando a tecnologia HTML.</li>
   <li>Teremos apenas um único arquivo HTML que conterá informações sobre um parque.</li>
@@ -17,10 +17,9 @@
 </ul>
 
 <h2>Minhas considerações</h2>
-<p>A cada dia um degrau, a cada passo uma nova experiencia, a cada momento mais um desafio.<br>
-Não podemos parar, todo aprendizado tem seus frutos.
-Aos poucos a gente vai alcançando o objetivo, ainda tenho muito que aprender.<br>
-Fico grato por tudo até aqui, pois ainda tem mais pra acontecer!</p>
+<p>Este foi meu primeiro contato com programação dentro da area de desenvolvedor.<br>
+Percebi que se compreendido todos os conceitos basicos reunidos a uma boa pratica de forma correta o mesmo resultará em um bom profissional dentro da area desejada.<br>
+Fico grato por tudo até aqui, pois ainda tenho muito mais pra aprender!</p>
 
 <h2>Como Contribuir</h2>
 <p>Se você gostaria de contribuir para este projeto, sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias ou correções. Suas contribuições são bem-vindas!</p>
