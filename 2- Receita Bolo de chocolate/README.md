@@ -1,5 +1,6 @@
 <h1>Projeto: Receitas do Vovô Mineiro</h1>
-<p>Exercício realizado como atividade prática na Plataforma DevMedia.<br>O projeto foi realizado utilizando o metódo de camadas.</p>
+<p>Exercício realizado como atividade prática na Plataforma DevMedia.<br>
+O projeto foi realizado utilizando o metódo de camadas.</p>
 
 <h2>Objetivos do exercício</h2>
 <p>Metodo de camadas.</p>
@@ -16,7 +17,7 @@
 </ul>
 
 <h2>Minhas considerações</h2>
-<p>Neste exercicio pude praticar os conteudos até aqui aprendidos e coloca-los em pratica.</p>
+<p>Neste exercicio pude praticar os conteudos até aqui aprendidos e coloca-los em pratica.<br>O aperfeiçoamento só acontece quando nos dispusermos a aprender, praticar, ouvir críticas e recomeçar!</p>
 
 <h3>Durante o curso eu aprendi:</h3>
 <ul>
