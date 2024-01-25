@@ -14,7 +14,7 @@ Exercício prático: Documento em HTML - Meta Tags.
         <li>Style/CSS</li>
     </ol>
 
-<h2>Entendendo o código do exemplo</h2>
+<h2>Entendendo o código</h2>
     <p>Para que a página que criamos tenha as características que desejamos, precisamos utilizar as seguintes tags de cabeçalho:</p>
     <ol>
         <li>Title</li>
