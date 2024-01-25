@@ -50,6 +50,11 @@ ol {
 li {
     margin-top: 10px;
     font-style: italic;
+    letter-spacing: 2px;
+}
+
+p {
+    line-height: 25px;
 }
 
 footer {
