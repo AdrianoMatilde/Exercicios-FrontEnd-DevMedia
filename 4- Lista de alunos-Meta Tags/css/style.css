@@ -9,6 +9,7 @@ body {
     width: 100%;
     display: flex;
     justify-content: center;
+    flex-direction: column;
     align-items: center;
     min-height: 100vh;
 }
@@ -81,7 +82,6 @@ span {
     color: #b11d1d;
 }
 
-
 .aprov-icon {
     display: flex;
     justify-content: space-between;
@@ -99,12 +99,16 @@ span {
     visibility: visible;
 }
 
-
-
 .reprov-icon {
     display: flex;
     justify-content: space-between;
     align-items: center;
+}
+
+div i {
+    padding: 3px;
+    border-radius: 2px;
+    background-color: #ffffffc9;
 }
 
 /* Estilo inicial para o ícone */
@@ -116,4 +120,20 @@ span {
 /* Efeito hover para mostrar o ícone */
 .reprov-icon:hover i {
     visibility: visible;
+}
+
+/*Rodapé*/
+.rodape {
+    width: 100%;
+    height: 55px;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+   
+    text-align: center;
+    font-size: 14px;
+    background-color: #926d40;
+    color: #fff;
 }
