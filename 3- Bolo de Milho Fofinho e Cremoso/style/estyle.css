@@ -146,6 +146,12 @@ footer {
     text-align: center;
 }
 
+a {
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+
 @media (max-width: 768px){
     .titulo-site,
     .secao-titulo h1 {

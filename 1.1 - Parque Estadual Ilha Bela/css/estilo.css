@@ -122,6 +122,12 @@ a {
     font-size: 13px;
 }
 
+.rodape a {
+    color: black;
+    cursor: pointer;
+    margin: 0;
+}
+
 @media (max-width: 469px) {
     .topo {
         flex-direction: column;
