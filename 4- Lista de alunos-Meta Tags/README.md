@@ -7,13 +7,12 @@ Exercício prático: Documento em HTML - Meta Tags.
 <p>Quando começamos a criar uma página HTML a primeira coisa que fazemos é definir o conteúdo de cabeçalho, como título e meta tags.</p>
 <div>
     <p>Através do curso eu aprendi a trabalhar com as seguintes tags:</p>
-    <p>
-    1. title<br>
-    2. meta (description, charset, viewport, robots)<br>
-    3. link<br>
-    4. style (css)<br>
-    </p>
-</div>
+     <ol>
+        <li>Title</li>
+        <li>meta (description, charset, viewport, robots)</li>
+        <li>link</li>
+        <li>Style/CSS</li>
+    </ol>
 
 <h2>Entendendo o código do exemplo</h2>
     <p>Para que a página que criamos tenha as características que desejamos, precisamos utilizar as seguintes tags de cabeçalho:</p>
