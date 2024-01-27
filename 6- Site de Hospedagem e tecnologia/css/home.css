@@ -74,6 +74,7 @@
 .container-banner {
     position: relative;
     padding: 180px 0px;
+    overflow: hidden;
 }
 
 .container-banner div{
@@ -360,7 +361,6 @@ li {
 	display: inline-block;
 	margin: 0 10px;
 }
-
 
 #link-topo {
     text-decoration: none;
