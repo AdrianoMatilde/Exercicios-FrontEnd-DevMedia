@@ -6,7 +6,7 @@
   <p>O repositório está organizado de maneira onde cada exercício está contido em uma pasta separada e inclui um arquivo HTML correspondente, um arquivo CSS para estilos personalizados e um arquivo README.md com informações específicas sobre o exercício.</p>
 </div>
 
-<h2>Links para os projetos no Vercel</h2>
+<h2>Links para os sites no Vercel</h2>
 <a href="https://vercel.com/adrianomatilde-projects">Repositório de Sites - Vercel 1</a> <br>
 <a href="https://vercel.com/adrianomatildes-projects">Repositório de Sites - Vercel 2</a>
 
