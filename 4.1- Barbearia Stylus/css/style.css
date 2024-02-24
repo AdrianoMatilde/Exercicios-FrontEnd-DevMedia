@@ -107,10 +107,6 @@ footer {
     color: #fff;
 }
 
-footer a {
-    color: #fff;
-}
-
 @media (max-width: 550px) {
     .topo img {
         max-width: 250px;

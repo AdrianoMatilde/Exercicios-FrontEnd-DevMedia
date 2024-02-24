@@ -205,6 +205,10 @@ footer .limitar-secao {
     text-align: center;
 }
 
+footer a {
+    color: #fff;
+}
+
 
 /* Media Queries */
 /* até 425px (mobile) */

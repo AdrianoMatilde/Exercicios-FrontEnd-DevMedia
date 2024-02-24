@@ -80,13 +80,13 @@ footer {
     height: auto;
     flex-wrap: wrap;
     padding: 15px;
-    background-color: bisque;
+    background-color: rgb(182, 145, 100);
     font-size: 14px;
 }
 
 a {
     text-decoration: none;
-    color: black;
+    color: rgb(255, 255, 255);
     cursor: pointer;
 }
 
