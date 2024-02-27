@@ -1,0 +1,135 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+}
+
+body {
+    scroll-behavior: smooth;
+}
+
+.limite-secao {
+    max-width: 980px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 0 10px;
+}
+
+.secao-container {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+
+.secao-container h2 {
+    font-size: 22px;
+}
+
+.secao-container p {
+    font-size: 18px;
+    text-align: justify;
+    line-height: 28px;
+    margin: 10px auto;
+    letter-spacing: 1px;
+}
+
+.topo {
+    width: 100%;
+    background-color: #afddfb;
+}
+
+.topo-logo {
+    width: 150px;
+}
+
+a {
+   text-decoration: none;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+    flex-wrap: wrap;
+    gap: 10px;
+    line-height: 28px;
+}
+
+.nav-link {
+    color: #1d1d1d;
+    font-size: 18px;
+    margin: 0 10px;
+    border-bottom: 2px solid #1d1d1d;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.nav-link:hover {
+    color: #fff;
+    border-bottom: 2px solid #fff;
+    transition: 0.3s;
+}
+
+.container-estilo {
+    font-size: 24px;
+}
+
+.container-estilo span{
+    color: #1d80c1;
+}
+
+.container-estilo:nth-child(odd) {
+    background-color: #1d80c1;
+    color: #ffffff;
+}
+
+.container-estilo:nth-child(odd) span{
+    color: yellow;
+}
+
+span {
+    font-weight: 550;
+}
+
+.imagem {
+    max-width: 450px;
+    width: 100%;
+}
+
+.lista-servicos {
+    max-width: 140px;
+    width: 100%;
+    margin: 40px auto 40px;
+    font-size: 20px;
+    text-align: left;
+}
+
+.mapa {
+    max-width: 980px;
+    width: 100%;
+}
+
+.lista-contatos {
+    list-style: none;
+    font-size: 20px;
+    max-width: 300px;
+    width: 100%;
+    margin: 40px auto 40px;
+}
+
+.link-contato {
+    background-color: #fff;
+    line-height: 40px;
+    text-align: center;
+    padding: 4px;
+    border-radius: 5px;
+}
+
+.rodape {
+    text-align: center;
+    padding: 10px 0 10px 0;
+    position: static;
+    bottom: 0;
+}
