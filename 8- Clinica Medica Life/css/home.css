@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+html {
     scroll-behavior: smooth;
 }
 
@@ -19,7 +22,6 @@ body {
 a {
     text-decoration: none;
 }
-
 
 .sobre,
 .especialidades,
@@ -50,14 +52,13 @@ header {
 }
 
 .topo {
-    align-items: center;
     justify-content: space-between;
-    flex-wrap: wrap;
+    align-items: center;
     width: 100%;
-    min-height: 60px;
+    min-height: 100px;
     padding: 0 10px;
     margin: 0 auto;
-    font-size: 26px
+    font-size: 24px
 }
 
 .logo img {
@@ -70,7 +71,7 @@ header {
    list-style: none;
    gap: 20px;
    padding: 10px;
-   
+
 }
 
 .links-topo a {
@@ -80,19 +81,17 @@ header {
 
 .links-topo a:hover {
     color: #004b4c;
-    border-bottom: 2px solid #fff;
 }
-
 
 /* Banner */
 .banner {
     width: 100%;
     height: 500px;
     position: relative;
-
     background-image: url(../assets/recepcao.png);
     background-repeat: no-repeat;
     background-size: cover;
+    background-position: center;
 }
 
 .banner-titulo {
@@ -108,7 +107,6 @@ header {
     font-size: 38px;
     margin: 0;
 }
-
 
 /* Sobre */
 .info {
@@ -140,7 +138,6 @@ header {
     align-items: center;
     margin-left: 40px;
 }
-
 
 /* Especialidades */
 .especialidades {
@@ -186,13 +183,11 @@ figcaption {
     border-radius: 2px;
 }
 
-
 /* Contato */
 .contato {
     flex-direction: column;
     gap: 20px;
 }
-
 
 /* Rodapé */
 footer {
@@ -209,15 +204,10 @@ footer a {
     color: #fff;
 }
 
-
 /* Media Queries */
-/* até 425px (mobile) */
-@media (max-width: 425px) {
-
-
+@media (max-width: 499px) {
     .topo {
         flex-direction: column;
-        flex-wrap: wrap;
     }
 
     .logo img {
@@ -229,7 +219,7 @@ footer a {
     }
 
     .links-topo a {
-        font-size: 12px;
+        font-size: 16px;
     }
 
     .banner {
@@ -247,7 +237,11 @@ footer a {
 
 
 /* 426px até 768px (tablet) */
-@media (min-width: 426px) and (max-width: 768px) {
+@media (min-width: 500px) and (max-width: 768px) {
+    .links-topo a {
+        font-size: 22px;
+    }
+
     .banner {
         height: 300px;
     }
@@ -259,19 +253,12 @@ footer a {
 
 
 /* 769px até 1024px (desktop) */
-@media (min-width: 769px) and (max-width: 1024px) {
+@media (min-width: 769px) {
     .banner {
         height: 400px;
     }
 
     .banner-titulo h1{
         font-size: 32px;
-    }
-}
-
-/* Acima de 1024px*/
-@media (min-width: 1025px) {
-    .banner {
-        height: 500px;
     }
 }
