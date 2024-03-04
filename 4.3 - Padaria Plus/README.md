@@ -1,4 +1,4 @@
-<h1>Projeto: BPadaria Plus</h1>
+<h1>Projeto: Padaria Plus</h1>
 <p>
 Exercício prático: Documento em HTML e CSS.
 </p>
