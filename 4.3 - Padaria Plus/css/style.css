@@ -1,0 +1,130 @@
+/* Estilo geral*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    width: 100%;
+    background-color: #f4f0e5;
+    font-family: Tahoma, sans-serif;
+}
+
+header {
+    width: 100%;
+    height: auto;
+}
+
+.limite-secao {
+    max-width: 840px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.container-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+/* Topo */
+.topo {
+    padding: 20px 0;
+    border-bottom: 2px solid #de8e37;
+}
+
+.img-logo {
+    max-width: 200px;
+    width: 100%;
+}
+
+.nav-links {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.link-topo {
+    margin-top: 20px;
+    color: #542f0c;
+    font-weight: bold;
+}
+
+.link-topo:hover {
+    color: #de8e37;
+}
+
+/* Seções */
+/* Sobre */
+section {
+    padding: 30px 0 0;
+}
+
+.titulo-geral {
+    font-size: 28px;
+    margin-bottom: 10px;
+}
+
+.subtitulo-geral {
+    font-weight: normal;
+    color: #de8e37;
+    margin-bottom: 10px;
+}
+
+.img-banner {
+    width: 100%;
+    margin-bottom: 20px;
+    border-radius: 4px;
+}
+
+/* Produtos */
+.bck-produtos {
+    background-color: #de8e37;
+    color: #fff;
+}
+
+h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+h4 {
+    font-size: 20px;
+    margin: 10px 0 10px;
+}
+
+.paragrafo-destaque {
+    max-width: 500px;
+    width: 100%;
+    line-height: 30px;
+}
+
+.img-produtos {
+    max-width: 400px;
+    width: 100%;
+    margin-bottom: 10px;
+    border-radius: 4px;
+}
+
+/* Rodapé */
+.rodape {
+    font-size: 14px;
+    margin-top: 40px;
+    background-color: #de8e37;
+    text-align: center;
+    padding: 10px 0 10px 0;
+    position: static;
+    bottom: 0;
+}
+
+.link-social {
+    color: #fff;
+    font-weight: bold;
+}
