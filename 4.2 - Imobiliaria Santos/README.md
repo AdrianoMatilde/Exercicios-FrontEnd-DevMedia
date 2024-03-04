@@ -1,4 +1,4 @@
-<h1>Projeto: Barbearia Stylus</h1>
+<h1>Projeto: Imobiliaria Santos</h1>
 <p>
 Exercício prático: Documento em HTML e CSS.
 </p>
