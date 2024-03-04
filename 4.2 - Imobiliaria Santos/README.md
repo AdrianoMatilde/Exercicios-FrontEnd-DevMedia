@@ -14,7 +14,7 @@ Exercício prático: Documento em HTML e CSS.
 </ul>
 
 <h2>Minhas considerações</h2>
- <p>EFico feliz em poder contribuir para a comunidade de desenvolvedores e espero que este projeto seja útil para todos como forma de inspiração.</p>
+ <p>Fico feliz em poder contribuir para a comunidade de desenvolvedores e espero que este projeto seja útil para todos como forma de inspiração.</p>
 
 <h2>Como Contribuir</h2>
 <p>Se você gostaria de contribuir para este projeto, sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias ou correções. Suas contribuições são bem-vindas!</p>
