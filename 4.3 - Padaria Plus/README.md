@@ -1,23 +1,16 @@
-<h1>Projeto: Barbearia Stylus</h1>
+<h1>Projeto: Padaria Plus</h1>
 <p>
 Exercício prático: Documento em HTML e CSS.
 </p>
 
 <h2>Objetivos do exercício</h2>
-<p>Praticar as propriedades para alterar a aparência das páginas web.</p>
-<p>Dividir em seções a estrutura da página para facilitar a analise de todo o código CSS e seus estilos aplicados.
-
-<h2>Entendendo o código</h2>
-    <p>Para que a página que criamos tenha as características que desejamos, precisamos estruturar a pagina dividida por seções e estilizar utilizando as propriedades que a deixam mais apresentavel.</p>
-        
+<p>Criar um website de uma padaria com as ferramentas HTML e CSS.</p>
+     
 <h2>Tecnologias Utilizadas</h2>
 <ul>
   <li>HTML (básicas): A estrutura do site foi desenvolvida usando HTML (Hypertext Markup Language), proporcionando uma base sólida para a construção do conteúdo da página.</li>
   <li>CSS: O estilo visual do site foi estilizado usando CSS (Cascading Style Sheets). Foram aplicadas técnicas avançadas de CSS, como flexbox para layouts flexíveis e responsivos, e efeitos como transições e transformações para criar uma experiência de usuário agradável.</li>
 </ul>
-
-<h2>Minhas considerações</h2>
- <p>Através dessa aula eu pude aplicar o que foi ensinado através das propriedades e testado varias formas diferentes para experienciar a resposta e o comportamento da página.</p>
 
 <h2>Como Contribuir</h2>
 <p>Se você gostaria de contribuir para este projeto, sinta-se à vontade para abrir problemas (issues) ou enviar pull requests com melhorias ou correções. Suas contribuições são bem-vindas!</p>
@@ -36,4 +29,4 @@ Entre com contato:<br></p>
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"/>
 </a>
 
-<img src="Imagem-site-Barbearia-Stylus.png"/>
+<img src="website-padaria-plus.png"/>
