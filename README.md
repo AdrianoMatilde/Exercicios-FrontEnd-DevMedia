@@ -6,11 +6,6 @@
   <p>O repositório está organizado de maneira onde cada exercício está contido em uma pasta separada e inclui um arquivo HTML correspondente, um arquivo CSS para estilos personalizados e um arquivo README.md com informações específicas sobre o exercício.</p>
 </div>
 
-<h2>Links para os sites no Vercel</h2>
-<a href="https://vercel.com/adrianomatilde-projects">Repositório de Sites - Vercel 1</a> <br>
-<a href="https://vercel.com/adrianomatildes-projects">Repositório de Sites - Vercel 2</a>
-
-
 ##
 <div align="left">
   <h3>Lista dos exercícios:</h3>
@@ -21,6 +16,8 @@
   3. <a href="3- Bolo de Milho Fofinho e Cremoso" >Bolo de Milho Fofinho e Cremoso</a> -> CSS Introdução <br>
   4. <a href="4- Lista de alunos-Meta Tags" >Lista de alunos</a> -> HTML - Meta Tags <br> 
   4.1 <a href="4.1- Barbearia Stylus" >Barbearia Stylus</a> -> HTML - CSS - propriedades <br>
+  4.2 <a href="4.2- Imobiliaria Santos" >Imobiliaria Santos</a> -> HTML - CSS - propriedades <br>
+  4.3 <a href="4.3- Padaria Plus" >Padaria Plus</a> -> HTML - CSS - propriedades <br>
   5. <a href="5- Artigo O Impacto da Tecnologia na Sociedade Contemporânea" >Artigo - O Impacto da Tecnologia na Sociedade Contemporânea</a> -> CSS Propriedades <br>
   6. <a href="6- Site de Hospedagem e tecnologia" >Site de Hospedagem e tecnologia</a> -> HTML e CSS<br>
   7. <a href="7- Site Pousada Secreta" >Site da Pousada Secreta</a> -> HTML e CSS<br>
