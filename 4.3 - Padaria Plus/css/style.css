@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    scroll-behavior: smooth;
 }
 
 html {
@@ -128,3 +129,15 @@ h4 {
     color: #fff;
     font-weight: bold;
 }
+
+.seta-topo {
+    background-image: url(../assets/seta-topo.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    width: 45px;
+    height: 45px;
+    position: fixed;
+    bottom: 55px;
+    right: 10px;   
+}
+
