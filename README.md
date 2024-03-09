@@ -18,6 +18,7 @@
   4.1 <a href="4.1- Barbearia Stylus" >Barbearia Stylus</a> -> HTML - CSS - propriedades <br>
   4.2 <a href="4.2- Imobiliaria Santos" >Imobiliaria Santos</a> -> HTML - CSS - propriedades <br>
   4.3 <a href="4.3- Padaria Plus" >Padaria Plus</a> -> HTML - CSS - propriedades <br>
+  4.4 <a href="4.4- Website de Advocacia Senhor Lei" >Advocacia Senhor Lei</a> -> HTML - CSS (media queries) <br>
   5. <a href="5- Artigo O Impacto da Tecnologia na Sociedade Contemporânea" >Artigo - O Impacto da Tecnologia na Sociedade Contemporânea</a> -> CSS Propriedades <br>
   6. <a href="6- Site de Hospedagem e tecnologia" >Site de Hospedagem e tecnologia</a> -> HTML e CSS<br>
   7. <a href="7- Site Pousada Secreta" >Site da Pousada Secreta</a> -> HTML e CSS<br>
